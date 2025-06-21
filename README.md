@@ -12,6 +12,7 @@ Hi! I'm **Amit**, and this is a practice project where I built a **car counting 
 - This is a **solo project** built for learning and experimentation.
 
 ---
+![Screenshot 2025-06-21 185816](https://github.com/user-attachments/assets/d223e064-4fbc-43dd-84ea-4d0370776a03)
 
 ## 📦 Download & Setup Instructions
 
